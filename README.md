@@ -31,8 +31,19 @@ dank intuitiver Bedienung, die keiner ausführlichen
 Erklärung bedarf.
 
 # Architekturpapier
+`Vorschau:`
 
-<iframe width="100%" height="800px" src="sys-doc/Architektur/20220627_TeamBlau_Architektur.pdf"></iframe>
+<img src="sys-doc/images/preview.png" alt="alt text" width="500">
+
+[`Ganze Datei öffnen` (sys-doc/Architektur/20220627_TeamBlau_Architektur.pdf)](sys-doc/Architektur/20220627_TeamBlau_Architektur.pdf)
+
+# Konzeptpapier
+`Vorschau:`
+
+<img src="sys-doc/images/preview_concept.png" alt="alt text" width="500">
+
+[`Ganze Datei öffnen` (sys-doc/Konzept/Konzeptpapier_BierPongo.pdf)](sys-doc/Konzept/Konzeptpapier_BierPongo.pdf)
+
 
 # Run
 
